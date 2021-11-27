@@ -21,5 +21,7 @@
 			</array>
 		</dict>
 	</dict>
+	<key>NSHealthShareUsageDescription</key>
+	<string>Check health data.</string>
 </dict>
 </plist>
